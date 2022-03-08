@@ -9,4 +9,4 @@ This project supported by Dr.Khatibi , Dr.Mahmoudi and Professor Mojtaba Zarei
 
 <a href="url"><img src='https://github.com/mahdimplus/DeepRetroMoco/blob/main/Result/architecture/models.jpg?raw=true align="left"' height="500" width="800" ></a>
 
-<a href="url"><img src='https://github.com/mahdimplus/DeepRetroMoco/blob/main/Result/architecture/architecture.jpg?raw=true' height="500" width="800" ></a>
+<a href="url"><img src='https://github.com/mahdimplus/DeepRetroMoco/blob/main/Result/architecture/architecture.jpg?raw=true' height="400" width="1200" ></a>
