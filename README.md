@@ -7,5 +7,5 @@ Visit the DRM [tutorial](https://colab.research.google.com/drive/1p4OBh2mz4aQ274
 This project supported by Dr.Khatibi , Dr.Mahmoudi and Professor Mojtaba Zarei
 # Unsupervised learning
 
-<a href="url"><img src='https://github.com/mahdimplus/DeepRetroMoco/blob/main/Result/architecture/models.jpg?raw=true align="left"' height="500" width="1000" ></a>
+<a href="url"><img src='https://github.com/mahdimplus/DeepRetroMoco/blob/main/Result/architecture/models.jpg?raw=true align="left"' height="500" width="800" ></a>
 
