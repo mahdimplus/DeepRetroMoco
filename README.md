@@ -6,5 +6,4 @@ Visit the DRM [tutorial](https://colab.research.google.com/drive/1p4OBh2mz4aQ274
 # Supervisors
 This project supported by Dr.Khatibi , Dr.Mahmoudi and Professor Mojtaba Zarei
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![alt text](http://url/to/img.png)
