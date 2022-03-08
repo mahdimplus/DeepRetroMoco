@@ -6,5 +6,5 @@ Visit the DRM [tutorial](https://colab.research.google.com/drive/1p4OBh2mz4aQ274
 # Supervisors
 This project supported by Dr.Khatibi , Dr.Mahmoudi and Professor Mojtaba Zarei
 ![ScreenShot](/Result/architecture/models.jpg)
-<a href="url"><img src=https://github.com/mahdimplus/DeepRetroMoco/blob/main/Result/architecture/models.jpg?raw=true align="left" height="48" width="48" ></a>
+<a href="url"><img src='https://github.com/mahdimplus/DeepRetroMoco/blob/main/Result/architecture/models.jpg?raw=true align="left"' height="48" width="48" ></a>
 
